@@ -1,4 +1,6 @@
 Red
+Gray
+Violet
 Vranadsfkln
 Yellow
 Orange
